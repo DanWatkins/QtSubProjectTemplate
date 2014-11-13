@@ -26,3 +26,6 @@
 *.exe
 *.out
 *.app
+Base.pro.user
+IDE/
+Makefile
